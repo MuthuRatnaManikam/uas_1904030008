@@ -58,7 +58,7 @@ if (isset($_POST['tambah'])) {
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home <span class="sr-only"></span></a>
+            <a class="nav-link" href="index.php">Home <span class="sr-only"></span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="buku.php">Buku</a>
